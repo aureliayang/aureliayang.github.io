@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Hydrology, Nanjing University, Nanjing China
-* B.S. in Hydrogeology, China University of Geosciences, Wuhan China
+* Ph.D in Hydrology, Nanjing University, Nanjing, China
+* B.S. in Hydrogeology, China University of Geosciences, Wuhan, China
 
 Work experience
 ======
