@@ -18,5 +18,5 @@ Research directions
 **Large-scale hydrologic modeling: National hydrologic modeling platform of China**  
 [ParFlow China](https://github.com/aureliayang/EcoSLIM_CONUS) 
 
-**Data-driven approach: Neural particle tracking using Neural ODE**  
+**Data-driven approach in hydrology: Neural particle tracking using Neural ODE**  
 [*X*EcoSLIM](https://github.com/aureliayang/XEcoSLIM)
