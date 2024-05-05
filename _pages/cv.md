@@ -21,6 +21,12 @@ Work experience
 
 * Research Associate
   * Southern University of Science and Technology, Shenzhen, China
+
+* Visiting Scholar
+  * Colorado School of Mines, Golden, USA
+
+* Visiting Scholar
+  * Pacific Northwest National Lab, Richland, USA
   
 Skills
 ======
@@ -32,15 +38,3 @@ Skills
 * Data-driven approach in hydrology
   * Deep learning
   * Tree-based machine learning
-
-Publications
-======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
