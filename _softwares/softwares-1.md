@@ -1,6 +1,6 @@
 ---
 title: "EcoSLIM"
-excerpt: "GPU-accelerated EcoSLIM enables the backward particle tracking at continental-scale in short time <br/><img src='/images/backward.png'>"
+excerpt: "GPU-accelerated EcoSLIM enables the backward particle tracking at continental-scale in a short time <br/><img src='/images/backward.png'>"
 collection: softwares  
 ---
 
