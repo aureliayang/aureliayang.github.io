@@ -16,7 +16,7 @@ Chen's Research
 [EcoSLIM CUDA backend](https://github.com/aureliayang/EcoSLIM_CONUS) 
 
 **Large-scale hydrologic modeling: National hydrologic modeling platform of China**  
-[ParFlow China](https://github.com/aureliayang/EcoSLIM_CONUS) 
+[ParFlow China](https://github.com/aureliayang/ParFlow-CONCN) 
 
 **Data-driven approach in hydrology: Neural particle tracking using Neural ODE**  
 [*X*EcoSLIM](https://github.com/aureliayang/XEcoSLIM)  
