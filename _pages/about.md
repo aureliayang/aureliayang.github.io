@@ -11,13 +11,13 @@ redirect_from:
 
 Research directions
 ======
-**Multi-GPU, CUDA-Aware acceleration of particle tracking on distributed platforms**
+**Multi-GPU, CUDA-Aware acceleration of particle tracking on distributed platforms**  
 [EcoSLIM CUDA backend](https://github.com/aureliayang/EcoSLIM_CONUS) 
 
-**Large-scale hydrologic modeling: National hydrologic modeling platform of China**
+**Large-scale hydrologic modeling: National hydrologic modeling platform of China**  
 [ParFlow China](https://github.com/aureliayang/EcoSLIM_CONUS) 
 
-**Neural particle tracking using Neural ODE** 
+**Data-driven approach: Neural particle tracking using Neural ODE**  
 [*X*EcoSLIM](https://github.com/aureliayang/XEcoSLIM)
 
 
