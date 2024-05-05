@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "I am an associate research scholar at Princeton University. I am in transition to Sun Yat-sen University."
+title: "I am an associate research scholar at Princeton University. I am in transition to Sun Yat-sen University as an associate professor."
 author_profile: true
 redirect_from: 
   - /about/
