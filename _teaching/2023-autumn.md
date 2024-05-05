@@ -8,7 +8,8 @@ date: 2023-08
 location: "Pennington NJ, USA"
 ---
 
-This is a description of a teaching experience. You can use markdown like any other post.
+This is a description of a teaching experience. You can use markdown like any other post.  
+![Results evaluation](/images/particle_tracking_evaluation_Page.png)
 
 Heading 1
 ======
