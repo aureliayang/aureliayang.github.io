@@ -1,6 +1,7 @@
 ---
 title: "EcoSLIM"
-collection: softwares
+collection: softwares  
+permalink: /softwares/softwares-1
 ---
 
 Lagrangian particle tracking code
