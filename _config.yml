@@ -13,7 +13,7 @@ title_separator          : "-"
 name                     : &name "Chen Yang"
 description              : &description "My personal website"
 url                      : https://aureliayang.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-baseurl                  : "" # the subpath of your site, e.g. "/blog"
+baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "aureliayang/aureliayang.github.io"
 
 # Site Author - The following control what appear as part of the author content on the side bar.
@@ -24,10 +24,10 @@ author:
   avatar           : "me.jpg"
   name             : "Chen Yang (杨晨)"
   pronouns         : "She/Her"  
-  bio              : "Associate Research Scholar at Princeton University"
-  location         : "Zhuhai, China"
+  bio              : "Associate Research Scholar / Associate Professor"
+  location         : "Zhuhai, Guangdong, China"
   employer         : "Sun Yat-sen University"
-  uri              : # URL
+  uri              : "https://atmos.sysu.edu.cn/page/25"
   email            : "yangchen.cug@163.com" 
 
   # Academic websites
@@ -74,7 +74,7 @@ author:
 
 
 # Site Settings
-teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
+teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
