@@ -2,7 +2,7 @@
 title: "Accelerating the Lagrangian particle tracking in hydrology to continental-scale"
 collection: publications
 permalink: /publication/2023-05-10-paper-title-number-4
-excerpt: 'This paper is about GPU acceleration of particle tracking.'
+excerpt: 'This paper is about the GPU acceleration of particle tracking.'
 date: 2023-05-10
 venue: 'Journal of Advances in Modeling Earth Systems'
 paperurl: 'https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2022MS003507'
