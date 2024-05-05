@@ -11,8 +11,8 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Hydrology, Nanjing University
-* B.S. in Hydrogeology, China University of Geosciences (Wuhan)
+* Ph.D in Hydrology, Nanjing University, Nanjing China
+* B.S. in Hydrogeology, China University of Geosciences, Wuhan China
 
 Work experience
 ======
@@ -29,7 +29,7 @@ Skills
   * Code development of mechanistic processes 
   * Continental-scale model development
   * Applications on ecohydrologic hotspots
-* Data-driven approach in hydroloch
+* Data-driven approach in hydrology
   * Deep learning
   * Tree-based machine learning
 
