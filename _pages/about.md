@@ -10,7 +10,7 @@ redirect_from:
 *I am an associate research scholar in the Department of Civil and Environmental Engineering at Princeton University.  
 I am in transition to the School of Atmospheric Sciences at Sun Yat-sen University as an associate professor.*
 
-Chen's Research
+Current Research
 ======
 **Multi-GPU, CUDA-Aware acceleration of particle tracking on distributed platforms**  
 [EcoSLIM CUDA backend](https://github.com/aureliayang/EcoSLIM_CONUS) 
