@@ -22,5 +22,9 @@ Research directions
 [*X*EcoSLIM](https://github.com/aureliayang/XEcoSLIM)  
 
 **Application of hydrologic models for scientific discoveries**  
-Backward partilce tracking at continental scale. The following figure shows the performance of our modeling platforms.  
-![Results evaluation](/images/particle_tracking_evaluation_Page.png)
+* Topography-controls on spatiotemporal variations of ET age
+  * Particle tracking in the North China Plain
+* Connections between groundwater and streamflow
+  * Backward partilce tracking at continental scale  
+  * The following figure shows the convincing performance of our modeling platform.  
+  * ![Results evaluation](/images/particle_tracking_evaluation_Page.png)
