@@ -11,35 +11,27 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* Ph.D in Hydrology, Nanjing University
+* B.S. in Hydrogeology, China University of Geosciences (Wuhan)
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Associate Research Scholar
+  * Princeton University, Princeton, USA
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* Research Associate
+  * Southern University of Science and Technology, Shenzhen, China
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Parallel programming using CUDA, MPI, OpenMP or hybrid architecture
+* Physically based large-scale hydrologic modeling
+  * Code development of mechanistic processes 
+  * Continental-scale model development
+  * Applications on ecohydrologic hotspots
+* Data-driven approach in hydroloch
+  * Deep learning
+  * Tree-based machine learning
 
 Publications
 ======
