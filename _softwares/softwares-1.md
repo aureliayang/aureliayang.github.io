@@ -1,9 +1,8 @@
 ---
 title: "EcoSLIM"
-excerpt: "<br/><img src='/images/backward.png'>"
+excerpt: "GPU-accelerated EcoSLIM enables the backward particle tracking at continental-scale in short time <br/><img src='/images/backward.png'>"
 collection: softwares  
-permalink: /softwares/softwares-1
 ---
 
-Lagrangian particle tracking code
+Lagrangian particle tracking code accelerated on distributed platforms using multi-GPU, CUDA-Aware MPI 
 
