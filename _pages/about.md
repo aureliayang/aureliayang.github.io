@@ -10,7 +10,7 @@ redirect_from:
 **I am an associate research scholar at Princeton University.  
 I am in transition to Sun Yat-sen University as an associate professor.**
 
-Research directions
+Research
 ======
 **Multi-GPU, CUDA-Aware acceleration of particle tracking on distributed platforms**  
 [EcoSLIM CUDA backend](https://github.com/aureliayang/EcoSLIM_CONUS) 
