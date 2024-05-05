@@ -7,7 +7,8 @@ redirect_from:
   - /about.html
 ---
  
-**I am an associate research scholar at Princeton University. I am in transition to Sun Yat-sen University as an associate professor.**
+**I am an associate research scholar at Princeton University.  
+I am in transition to Sun Yat-sen University as an associate professor.**
 
 Research directions
 ======
