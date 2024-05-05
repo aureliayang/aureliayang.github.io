@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Chen's Homepage"
+title                    : "Research Homepage"
 title_separator          : "-"
 name                     : &name "Chen Yang"
 description              : &description "My personal website"
