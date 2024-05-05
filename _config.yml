@@ -8,7 +8,7 @@
 
 # Basic Site Settings
 locale                   : "en-US"
-title                    : "Research Homepage"
+title                    : "Chen's Homepage"
 title_separator          : "-"
 name                     : &name "Chen Yang"
 description              : &description "My personal website"
@@ -22,12 +22,12 @@ repository               : "aureliayang/aureliayang.github.io"
 author:
   # Biographic information
   avatar           : "me.jpg"
-  name             : "Chen Yang (楊晨)"
+  name             : "Chen Yang (杨晨)"
   pronouns         : "She/Her"  
   bio              : "Associate Research Scholar / Associate Professor"
   location         : "Zhuhai, China"
   employer         : "Sun Yat-sen University"
-  uri              : #"https://atmos.sysu.edu.cn/page/25"
+  uri              : "https://atmos.sysu.edu.cn/page/25"
   email            : "yangchen.cug@163.com" 
 
   # Academic websites
@@ -74,7 +74,7 @@ author:
 
 
 # Site Settings
-teaser                   : "me.jpg" # filename of teaser fallback teaser image placed in /images/, .e.g. 
+teaser                   : "500x300.png" # filename of teaser fallback teaser image placed in /images/, .e.g. 
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
 future                   : true
