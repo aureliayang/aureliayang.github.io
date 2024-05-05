@@ -2,7 +2,7 @@
 title: "Hydrogeology"
 collection: teaching
 type: "Graduate course"
-permalink: /teaching/2017-autumn
+permalink: /teaching/2017-autumn-teaching-2
 venue: "Sustech"
 date: 2017-09
 location: "Shenzhen Guangdong, China"
