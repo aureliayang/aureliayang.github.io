@@ -4,7 +4,7 @@ collection: teaching
 type: "High school course"
 permalink: /teaching/2023-autumn-teaching-1
 venue: "The Watershed Institute"
-date: 2023-08
+date: 2023-01-01
 location: "Pennington NJ, USA"
 ---
 
