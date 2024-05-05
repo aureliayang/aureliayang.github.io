@@ -26,7 +26,7 @@ author:
   pronouns         : "She/Her"  
   bio              : "Associate Research Scholar at Princeton University"
   location         : "Zhuhai, China"
-  employer         : "xxx University"
+  employer         : "Sun Yat-sen University"
   uri              : # URL
   email            : "yangchen.cug@163.com" 
 
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
