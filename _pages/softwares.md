@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "Chen's CV"
-permalink: /cv/
+permalink: /softwares/
 author_profile: true
 redirect_from:
   - /resume
