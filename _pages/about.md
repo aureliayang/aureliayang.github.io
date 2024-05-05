@@ -21,7 +21,7 @@ Current Research
 **Data-driven approach in hydrology: Neural particle tracking using Neural ODE**  
 [*X*EcoSLIM](https://github.com/aureliayang/XEcoSLIM)  
 
-**Application of hydrologic models for scientific discoveries**  
+**Applications of integrated hydrologic models for scientific discoveries**  
 * Topography-controls on spatiotemporal variations of ET age
   * Particle tracking in the North China Plain
 * Connections between groundwater and streamflow
