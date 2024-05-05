@@ -3,8 +3,6 @@ layout: archive
 title: "Chen's CV"
 permalink: /softwares/
 author_profile: true
-redirect_from:
-  - /resume
 ---
 
 {% include base_path %}
