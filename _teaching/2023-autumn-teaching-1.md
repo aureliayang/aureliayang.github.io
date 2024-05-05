@@ -2,7 +2,7 @@
 title: "Watershed Academy"
 collection: teaching
 type: "High school course"
-permalink: /teaching/2023-autumn
+permalink: /teaching/2023-autumn-teaching-1
 venue: "The Watershed Institute"
 date: 2023-08
 location: "Pennington NJ, USA"
