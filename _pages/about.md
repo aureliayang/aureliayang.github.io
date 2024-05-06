@@ -21,8 +21,9 @@ Current Research
 **Data-driven approach in hydrology: Neural particle tracking using Neural ODE**  
 * [*X*EcoSLIM](https://github.com/aureliayang/XEcoSLIM)  
 
-**Coupling between ParFlow and land surface models**  
+**Coupling between ParFlow and Land Surface Models**  
 * Coupling with NASA LIS, ongoing project in US
+  * [LIS is a flexible land surface modeling and data assimilation framework](https://lis.gsfc.nasa.gov/software/lis)
 * Coupling with latest Common Land Model (CoLM), future collaboration in China
 
 **Applications of integrated hydrologic models for scientific discoveries**  
