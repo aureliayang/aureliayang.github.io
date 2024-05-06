@@ -13,13 +13,13 @@ I am in transition to School of Atmospheric Sciences at Sun Yat-sen University a
 Current Research
 ======
 **Multi-GPU, CUDA-Aware acceleration of particle tracking on distributed platforms**  
-[EcoSLIM CUDA backend](https://github.com/aureliayang/EcoSLIM_CONUS) 
+* [EcoSLIM CUDA backend](https://github.com/aureliayang/EcoSLIM_CONUS) 
 
 **Large-scale hydrologic modeling: National hydrologic modeling platform of China**  
-[ParFlow China](https://github.com/aureliayang/ParFlow-CONCN) 
+* [ParFlow China](https://github.com/aureliayang/ParFlow-CONCN) 
 
 **Data-driven approach in hydrology: Neural particle tracking using Neural ODE**  
-[*X*EcoSLIM](https://github.com/aureliayang/XEcoSLIM)  
+* [*X*EcoSLIM](https://github.com/aureliayang/XEcoSLIM)  
 
 **Coupling between ParFlow and land surface models**  
 * Coupling with NASA LIS, ongoing project in US
