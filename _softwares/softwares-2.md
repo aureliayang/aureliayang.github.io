@@ -1,6 +1,6 @@
 ---
 title: "ParFlow"
-excerpt: "Integrated surface water-groundwater hydrologic model <br/><img src='/images/EGU24_CONCN.png'><br/>I am also a team memeber of NASA LIS-ParFlow coupling<br/><img src='/images/nasa-logo.png'>"
+excerpt: "**Integrated surface water-groundwater hydrologic model** <br/><img src='/images/EGU24_CONCN.png'><br/>**I am also a team memeber of NASA LIS-ParFlow coupling**<br/><img src='/images/nasa-logo.png'>"
 collection: softwares  
 ---
 
