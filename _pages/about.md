@@ -23,7 +23,7 @@ Current Research
 
 **Coupling between ParFlow and land surface models**  
 * Coupling with NASA LIS, ongoing project in US
-* Coupling with latest Common Land Model (CoLM), future work in China
+* Coupling with latest Common Land Model (CoLM), future collaboration in China
 
 **Applications of integrated hydrologic models for scientific discoveries**  
 * Topography-controls on spatiotemporal variations of ET age
