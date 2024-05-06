@@ -4,9 +4,5 @@ excerpt: "Integrated surface water-groundwater hydrologic model <br/><img src='/
 collection: softwares  
 ---
 
-[More information here](https://github.com/parflow/parflow)
-
-Another software that I am actively engaged.  
-
-I am also a team memeber of NASA LIS-ParFlow development. 
-![NASA LOGO](/images/nasa-logo.png) 
+[ParFlow Github](https://github.com/parflow/parflow)
+[ParFlow Manual](https://parflow.readthedocs.io/en/latest/)
