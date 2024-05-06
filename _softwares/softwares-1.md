@@ -4,5 +4,7 @@ excerpt: "GPU-accelerated EcoSLIM enables the backward particle tracking at cont
 collection: softwares  
 ---
 
-Lagrangian particle tracking code accelerated on distributed platforms using multi-GPU, CUDA-Aware MPI 
+Lagrangian particle tracking code accelerated on distributed platforms using multi-GPU, CUDA-Aware MPI  
+
+[Cover of DOE ESSP Highlights](https://ess.science.energy.gov/highlights/)
 
