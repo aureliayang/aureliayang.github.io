@@ -27,7 +27,7 @@ Current Research
 * [Topography-controls on spatiotemporal variations of ET age](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039228)
   * Particle tracking in the North China Plain
 * Connections between groundwater and streamflow
-  * Backward partilce tracking in the continental USA
+  * Backward partilce tracking in the continental US
 
 *The following figure shows the convincing performance of our modeling platform*
 
