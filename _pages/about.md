@@ -31,7 +31,6 @@ Current Research
 
 Performance of our modeling platform  
 ======
-
 Our modeling platform showed great performance not only in the ParFlow model, but also showed favorable performance in the EcoSLIM particle tracking.  
 
 ![Results evaluation](/images/particle_tracking_evaluation_Page.png)  
