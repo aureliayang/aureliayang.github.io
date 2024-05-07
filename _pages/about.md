@@ -11,11 +11,11 @@ redirect_from:
 
 Current Research
 ======
-[**Multi-GPU, CUDA-Aware acceleration of particle tracking on distributed platforms [EcoSLIM CUDA]**](https://github.com/aureliayang/EcoSLIM_CONUS) 
+[**Multi-GPU, CUDA-Aware acceleration of particle tracking on distributed platforms**](https://github.com/aureliayang/EcoSLIM_CONUS) 
 
-[**Large-scale hydrologic modeling: National hydrologic modeling platform of China [ParFlow CONCN]**](https://github.com/aureliayang/ParFlow-CONCN) 
+[**Large-scale hydrologic modeling: National hydrologic modeling platform of China**](https://github.com/aureliayang/ParFlow-CONCN) 
 
-[**Data-driven approach in hydrology: Neural particle tracking using Neural ODE [*X*EcoSLIM]**](https://github.com/aureliayang/XEcoSLIM)  
+[**Data-driven approach in hydrology: Neural particle tracking using Neural ODE**](https://github.com/aureliayang/XEcoSLIM)  
 
 **Coupling between ParFlow and Land Surface Models**  
 * Coupling with NASA LIS, *ongoing project in US*
