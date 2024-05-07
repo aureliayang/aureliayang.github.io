@@ -31,7 +31,7 @@ Current Research
   * Particle tracking in the North China Plain
 * Connections between groundwater and streamflow
   * Backward partilce tracking in the continental USA  
-  * The following figure shows the convincing performance of our modeling platform.
+  * The following figure shows the convincing performance of our modeling platform
 
 ![Results evaluation](/images/particle_tracking_evaluation_Page.png)  
 
