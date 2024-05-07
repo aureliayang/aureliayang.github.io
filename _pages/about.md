@@ -29,7 +29,10 @@ Current Research
 * Connections between groundwater and streamflow
   * Backward partilce tracking in the continental US
 
-*The following figure shows the convincing performance of our modeling platform*
+Performance of our modeling platform  
+======
+
+Our modeling platform showed great performance not only in the ParFlow model, but also showed favorable performance in the EcoSLIM particle tracking.  
 
 ![Results evaluation](/images/particle_tracking_evaluation_Page.png)  
 
