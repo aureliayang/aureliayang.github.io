@@ -7,8 +7,7 @@ redirect_from:
   - /about.html
 ---
  
-*I am an associate research scholar in Department of Civil and Environmental Engineering at Princeton University.  
-I am in transition to School of Atmospheric Sciences at Sun Yat-sen University as an associate professor.*
+*I am an associate research scholar in Department of Civil and Environmental Engineering at Princeton University. I am in transition to School of Atmospheric Sciences at Sun Yat-sen University as an associate professor.*
 
 Current Research
 ======
