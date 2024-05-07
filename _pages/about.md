@@ -26,7 +26,7 @@ Current Research
 **Applications of integrated hydrologic models for scientific discoveries**  
 * [Topography-controls on spatiotemporal variations of ET age](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039228)
   * Particle tracking in the North China Plain
-* Connections between groundwater and streamflow
+* [Connections between groundwater and streamflow](https://www.researchsquare.com/article/rs-3308696/v1)(in revision)
   * Backward partilce tracking in the continental US
 
 Performance of our modeling platform  
