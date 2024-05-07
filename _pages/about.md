@@ -30,7 +30,7 @@ Current Research
 
 Performance of our modeling platform  
 ======
-Our modeling platform showed great performance not only in the [ParFlow hydrologic modeling](https://www.sciencedirect.com/science/article/pii/S0022169423012362), but also showed favorable performance in the EcoSLIM particle tracking.  
+Our modeling platform showed great performance not only in the [ParFlow hydrologic modeling](https://www.sciencedirect.com/science/article/pii/S0022169423012362), but also in the EcoSLIM particle tracking.  
 
 ![Results evaluation](/images/particle_tracking_evaluation_Page.png)  
 
