@@ -20,7 +20,8 @@ Current Research
 **Coupling between ParFlow and Land Surface Models**  
 * Coupling with NASA LIS, *ongoing project in US*
   * [LIS is a flexible land surface modeling and data assimilation framework](https://lis.gsfc.nasa.gov/software/lis)
-* Coupling with Common Land Model (CoLM), *future collaboration in China*
+* Coupling with Common Land Model (CoLM), *collaboration in China*
+  * [Twenty years later, All is well: 二十年别来无恙](https://github.com/aureliayang/parflow)
 
 **Applications of integrated hydrologic models for scientific discoveries**  
 * [Topography-controls on spatiotemporal variations of ET age](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2023JD039228)
