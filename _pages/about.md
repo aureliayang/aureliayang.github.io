@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+*I am an associate professor in the School of Atmospheric Sciences at Sun Yat-sen University.*  
+
 Current Research
 ======
 [**Multi-GPU, CUDA-Aware acceleration of particle tracking on distributed platforms**](https://github.com/aureliayang/EcoSLIM_CONUS) 
